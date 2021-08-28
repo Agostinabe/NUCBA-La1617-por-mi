@@ -1,0 +1,25 @@
+NUCBA-La1617-por-mi
+
+
+Repo con todos los ejercicios y anotaciones de la cursada de "Desarrollo Web Full Stack" en NUCBA
+
+Comandos para subir por primera vez a GitHub:
+
+ cree un nuevo repositorio en la línea de comandos
+
+echo "# NUCBA-La1617-por-mi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Leoeze83/NUCBA-La1617-por-mi.git
+git push -u origin main
+
+-------------------------------------------------
+insertar un repositorio existente desde la línea de comandos
+
+git remote add origin https://github.com/Leoeze83/NUCBA-La1617-por-mi.git
+git branch -M main
+git push -u origin main
+
+-----------------------------------------------------------
